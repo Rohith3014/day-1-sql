@@ -53,6 +53,23 @@ Practiced the basic database operations known as CRUD:
 - UPDATE – Modifying records using "UPDATE"
 - DELETE – Removing records using "DELETE"
 Worked with tables like employees, courses, products, students, and orders to perform these operations and understand how data is managed in SQL databases.
+🔹 Day 8 SQL Practice
+
+This repository contains SQL practice queries.
+Topics Covered:
+- String Functions
+- Date Functions
+- Data Insertion
+- Table Creation
+Functions Used:
+- CONCAT() – Combines two or more strings into one text.
+- UPPER() – Converts text into uppercase letters.
+- LOWER() – Converts text into lowercase letters.
+- SUBSTRING() – Extracts a part of a string.
+- LENGTH() – Returns the number of characters in a string.
+- YEAR() – Extracts the year from a date.
+- DATEDIFF() – Returns the number of days between two dates.
+- CURDATE() – Returns the current system date.
 
 🛠️ Tools Used
 Database: MySQL
