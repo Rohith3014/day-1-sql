@@ -53,6 +53,8 @@ Practiced the basic database operations known as CRUD:
 - UPDATE – Modifying records using "UPDATE"
 - DELETE – Removing records using "DELETE"
 Worked with tables like employees, courses, products, students, and orders to perform these operations and understand how data is managed in SQL databases.
+
+
 🔹 Day 8 SQL Practice
 
 This repository contains SQL practice queries.
