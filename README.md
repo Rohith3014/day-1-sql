@@ -41,10 +41,18 @@ Aggregate Functions: Performing calculations on data using SQL functions.
 
 🔹 Day 6: Data Integrity with Constraints
 Primary Key: Ensures each record in a table is unique and cannot contain NULL values.
-NOT NULL: Ensures a column must always contain a value.
-UNIQUE: Prevents duplicate values in a column.
-DEFAULT: Assigns a predefined value automatically if no value is provided during insertion.
+ - NOT NULL: Ensures a column must always contain a value.
+ - UNIQUE: Prevents duplicate values in a column.
+ - DEFAULT: Assigns a predefined value automatically if no value is provided during insertion.
 Practice Focus: Creating tables with constraints and testing them by inserting valid and invalid data to understand how databases enforce data integrity.
+
+🔹 Day 7: SQL CRUD Operations
+Practiced the basic database operations known as CRUD:
+- CREATE – Creating tables and inserting records
+- READ – Retrieving data using "SELECT"
+- UPDATE – Modifying records using "UPDATE"
+- DELETE – Removing records using "DELETE"
+Worked with tables like employees, courses, products, students, and orders to perform these operations and understand how data is managed in SQL databases.
 
 🛠️ Tools Used
 Database: MySQL
