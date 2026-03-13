@@ -89,7 +89,24 @@ Functions Used
 - IF() – Returns a value based on a condition.
 - TIMESTAMPDIFF() – Calculates the difference between two dates.
 
+  🔹 Day 10 – SQL functions Practice
+Topics covered:
+- Creating database and table
+- Inserting sample data
+- Aggregate functions ("SUM", "AVG", "COUNT", "MAX")
+- "GROUP BY" and "HAVING"
+- "SUBSTRING" function
+- "CASE" statement
 
+  🔹 Day 11 – SQL Analysis Practice
+Topics covered:
+- Creating database and table
+- Inserting sample data
+- Aggregate functions ("SUM", "AVG", "COUNT", "MAX")
+- "GROUP BY" and "HAVING"
+- "SUBSTRING" function
+- "CASE" statement
+  
 🛠️ Tools Used
 Database: MySQL
 Environment: GitHub Web Editor / VS Code
