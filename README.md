@@ -106,6 +106,73 @@ Topics covered:
 - "GROUP BY" and "HAVING"
 - "SUBSTRING" function
 - "CASE" statement
+
+- 🔹 Day 12 – SQL Subqueries Practice
+Topics covered:
+
+- Subqueries
+- Nested SELECT queries
+- IN and EXISTS
+- Filtering using subqueries
+
+🔹 Day 13 – SQL String Functions Practice
+Topics covered:
+
+- CONCAT()
+- UPPER() and LOWER()
+- LENGTH()
+- String manipulation
+
+🔹 Day 14 – SQL Date Functions Practice
+Topics covered:
+
+- NOW()
+- CURDATE()
+- DATEDIFF()
+- Working with date and time
+
+🔹 Day 15 – SQL Constraints Practice
+Topics covered:
+
+- PRIMARY KEY
+- FOREIGN KEY
+- NOT NULL
+- Data integrity rules
+
+🔹 Day 16 – SQL CRUD Practice
+Topics covered:
+
+- INSERT
+- UPDATE
+- DELETE
+- Basic data operations
+
+🔹 Day 17 – SQL Joins Practice
+Topics covered:
+
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- Subqueries
+- Views
+
+🔹 Day 18 – SQL Window Functions Practice
+Topics covered:
+
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- PARTITION BY
+- OVER clause
+
+🔹 Day 19 – SQL Interview Practice
+Topics covered:
+
+- Top N queries
+- Subqueries
+- MAX() and AVG()
+- LIMIT
+- Filtering and sorting
   
 🛠️ Tools Used
 Database: MySQL
